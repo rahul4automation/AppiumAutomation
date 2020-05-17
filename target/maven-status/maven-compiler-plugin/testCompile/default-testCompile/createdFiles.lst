@@ -1,0 +1,12 @@
+MGpages\HomePage_1mg.class
+tests\SearchDoctorsTest.class
+com\naukri\test\BaseClass.class
+com\naukri\test\LandingSearchPageTC.class
+tests\Dummy.class
+com\naukri\test\DashBoardPageTC.class
+tests\ScrollElement.class
+com\naukri\test\LandingPageTestCase_01.class
+tests\BaseClass.class
+com\naukri\test\LoginInAccount_TestCase_02.class
+tests\AddNewPatientTest.class
+tests\RegressionTest.class
